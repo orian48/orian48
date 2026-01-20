@@ -1,3 +1,4 @@
+-    Linkedin: https://www.linkedin.com/in/orian-torres/
 - 👋 Hi, I’m @orian48
 - 👀 I’m interested in cibersecurity
 - 🌱 I’m currently learning cibersecurity
