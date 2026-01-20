@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning cibersecurity
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me orian_moises@hotmail.com
-- 😄 Pronouns: Terabeats
 - ⚡ Fun fact: I like traveling, music, food, the outdoors, physical activity, reading, and playing video games. Also really enjoy learning all kinds of things
 
 <!---
